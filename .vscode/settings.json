@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "autoflush",
+        "dotenv",
+        "maxcare",
+        "sessionmaker"
+    ],
+    "python.analysis.extraPaths": [
+        "./backend"
+    ]
+}
